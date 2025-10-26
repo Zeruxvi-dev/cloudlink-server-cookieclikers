@@ -1,7 +1,6 @@
 {
   "name": "cloudlink-server",
   "version": "1.0.0",
-  "description": "Serveur CloudLink compatible TurboWarp",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
